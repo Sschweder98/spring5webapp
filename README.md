@@ -1,4 +1,17 @@
-# Spring Framework 5: Beginner to Guru
+# spring5webapp
+
+Just a little example Spring app that i developed during the Udemy Course from SpringFrameworkGuru.
+
+It puts some items in a H2 inMemory database, outputs the item counts to the console and has two routes/controllers defined that show the entries of the database in an thymeleaf view.
+
+The defined routes are:
+"/books" -> Reads all book objects from the inMemory database
+"/authors" -> Reads all author objects fomr the inMemory database
+<br><br><br><br>
+Original description of this project from SpringFrameworkGuru:
+
+
+## Spring Framework 5: Beginner to Guru
 
 This repository is for an example application built in my [Spring Framework 5 - Beginner to Guru](https://www.udemy.com/testing-spring-boot-beginner-to-guru/?couponCode=GITHUB_REPO) online course
 
